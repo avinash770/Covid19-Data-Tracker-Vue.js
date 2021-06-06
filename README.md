@@ -1,4 +1,8 @@
-# covid19-tracker
+# Covid-19 Data Tracker using Vue.js & Tailwind CSS
+
+Demo project for tracking Covid-19 cases for all the countries.
+
+API provided by [COVID19 API](https://covid19api.com/)
 
 ## Project setup
 ```
